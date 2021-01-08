@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ParthViewTool::Renderer.copyright 'Parth Soni', 'All rights reserved'
+```
 
 ## Development
 
